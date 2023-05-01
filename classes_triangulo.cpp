@@ -13,7 +13,7 @@ class Triangulo {
             b = lado2;
             c = lado3;
     }
-
+//Invés de fazer diversas vezes a mesma fórmula, aqui está o facilitador. Apenas será descrita aqui para que possa ser mencionada depois com poucas palavras.
     double calcularArea () {
         double p = (a+b+c) / 2;
         double area = std::sqrt(p * (p-a) * (p-b)*(p-c));
