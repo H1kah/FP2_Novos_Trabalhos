@@ -9,7 +9,7 @@ O projeto foi realiado com o principal propósito calcular a área de dois triâ
 
 Uma das coisas básicas para uma calculadora que até o momento não tive tempo de colocar foi a repetição. O problema surgiu durante o processo e preferi tirar para resolver depois.
 
-### Comandos em destaque utilizados 🖼️
+### Comandos em destaque 🖼️
 
 - Class:
 Dessa forma, foi possível criar um conjunto que pôde ser mencionado depois, facilindo o resto do trabalho no int main.
