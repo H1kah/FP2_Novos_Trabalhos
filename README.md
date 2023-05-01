@@ -1,5 +1,5 @@
 # Classe triângulo 🔼
-## Status: Quase oncluído 🏗️
+## Status: Quase Concluído 🏗️
 
 ### Descrição 📖
 
