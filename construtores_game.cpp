@@ -11,7 +11,8 @@ class JogoAdivinhacao {
         //enquanto o private é para privar, o public é para deixar aberto. Dessa forma, dá para usar tais bases para outras variações
     public:
         JogoAdivinhacao () {
-        //para que o código se repita, esta estrutura foi montada. Assim ela se repetirá até descobrir qual é o número secreto que foi sorteado pelo programa, mostrando a quantidade de tentativas feitas.
+        //para que o código se repita, esta estrutura foi montada. Assim ela se repetirá até descobrir qual é o 
+        // número secreto que foi sorteado pelo programa, mostrando a quantidade de tentativas feitas.
         srand(time(0));
         numerosecreto = rand() % 100 + 1; 
         tentativas = 0;
@@ -41,4 +42,5 @@ int main () {
             jogo.jogar ();
             return 0;
 }
-//É possível utilizar isso em jogos gacha. Ou seja, o player vai jogando até conseguir um personagem ou uma arma. Por exemplo, um jogo conhecido que tem gacha é o Genshin Impact, sorteando personagens aleatórios do jogo.
+//É possível utilizar isso em jogos gacha. Ou seja, o player vai jogando até conseguir um personagem ou uma arma.
+//Por exemplo, um jogo conhecido que tem gacha é o Genshin Impact, sorteando personagens aleatórios do jogo.
