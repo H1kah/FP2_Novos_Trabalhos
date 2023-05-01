@@ -12,4 +12,6 @@ Uma das coisas básicas para uma calculadora que até o momento não tive tempo 
 ### Comandos em destaque utilizados 🖼️
 
 - Public/ Private:
-A inten
+A intenção foi criar uma fórmula para que eu pudesse usar depois apenas com poucas citações.
+
+-a
