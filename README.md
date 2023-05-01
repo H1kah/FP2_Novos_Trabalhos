@@ -1,4 +1,4 @@
-# FP2_Novos_Trabalhos 👓
+# FP2_Novos_Trabalhos 💞
 
 ## Propósitos 💪
 
