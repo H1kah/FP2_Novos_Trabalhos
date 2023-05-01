@@ -53,6 +53,7 @@ int main () {
     else if (AreaY = AreaX) {
         std::cout << "Ambos possuem a mesma área." << std::endl;
     }
+    //um adicional caso ocorra um erro nos valores finais.
     else {
         std::cout << "erro" <<  std::endl;
 
